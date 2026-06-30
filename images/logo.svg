@@ -1,0 +1,10 @@
+<svg viewBox="0 0 500 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- BW Ceramics Logo -->
+  <g fill="#1a1a1a">
+    <!-- Left spiral -->
+    <path d="M 80 280 Q 40 280 40 240 Q 40 180 100 160 Q 140 150 160 190 Q 170 210 150 220 Q 130 230 120 210" stroke="#1a1a1a" stroke-width="30" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    
+    <!-- Right spiral and number 5 -->
+    <path d="M 200 120 Q 240 80 300 60 Q 380 40 420 120 Q 440 160 420 200 Q 400 240 340 250 Q 280 260 260 210 Q 250 190 270 180 Q 300 170 310 200 Q 320 230 290 250 Q 240 280 200 240" stroke="#1a1a1a" stroke-width="30" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
